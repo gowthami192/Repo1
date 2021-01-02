@@ -1,5 +1,5 @@
 #include<stdio.h>  
-void fact()    
+int fact()    
 {    
  int i,fact=1,number;    
  printf("Enter a number: ");    
